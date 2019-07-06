@@ -1,86 +1,259 @@
 [
   {
     "id": 1,
-    "name": "SEOCHO WHEAT",
+    "name": "seocho wheat",
     "img": "../static/images/beer/b_12_simg.png",
     "color": "rgba(236, 231, 81, 0.6)",
+    "description": "서초위트는 가장 편하게 마실 수 있는 밀맥주로밀맥주 특유의 바나나의 풍미를 느낄 수 있는 맥주이다",
     "abv":  4.2,
     "ibu": 0,
     "srm": 0,
-    "type": "ALE",
-    "price": 0,
-    "description": "서초위트는 가장 편하게 마실 수 있는 밀맥주로밀맥주 특유의 바나나의 풍미를 느낄 수 있는 맥주이다",
-    "brewed": "korea",
-    "country": "korea"
+    "type": "ale",
+    "style": "wheat",
+    "brewed": "세븐브로이",
+    "country": "korea",
+    "reviews": [
+      {
+        "reviewer": {
+          "name": "유미팬클럽",
+          "reviews": 123
+        },
+        "text": "파인트 글라스로 330ml 병 제공. slighlty cloudy 호박색의 구리색을 띄우고 중간 정도의 크림색을 띄며 중간 정도의 잔류 물과 약간의 비누 조각이 잔에 남아 있습니다. 코는 감미롭고 프루티하며, 꽃과 수지 홉이 강한 노트가 있습니다. 약간의 선풍적 인 맛. 일부 과일 노트와 함께 매우 거친 맥주. 카라멜과 토피. 중간에서 가벼운 괴로움. 수지. 중 ~ 저 쓴맛. 가벼운 몸. 중 탄산염. 거칠고 약간 달콤한 fatertaste. 중간 마시기. 나쁘지 않다.",
+        "like": 1,
+        "unlike": 0
+      },
+      {
+        "reviewer": {
+          "name": "유아인",
+          "reviews": 2
+        },
+        "text": "이딴것도 맥주라고 팔고있노 서초동 주민들은 부끄러운줄 알아라 ㅉㅉ",
+        "like": 1,
+        "unlike": 0
+      }
+    ],
+    "score": {
+      "look": 1,
+      "smell": 1,
+      "taste": 1,
+      "feel": 1,
+      "price": 1,
+      "overall": 1
+    }
   },
   {
     "id": 2,
-    "name": "Hangang Ale",
+    "name": "hangang ale",
     "img": "../static/images/beer/b_13_simg.png",
     "color": "rgba(123, 93, 138, 0.6)",
+    "description": "한강에일은 밀 맥아를 베이스로 하여 부드럽고 조밀한 거품이 특징으로 맥아의 단 맛과 오렌지 껍질의 상큼함이 청량감을 높여 편안하게 마실 수 있는 맥주입니다.",
     "abv":  5.2,
     "ibu": 0,
     "srm": 0,
-    "type": "ALE",
+    "type": "ale",
+    "style": "wheat",
     "price": 0,
-    "description": "한강에일은 밀 맥아를 베이스로 하여 부드럽고 조밀한 거품이 특징으로 맥아의 단 맛과 오렌지 껍질의 상큼함이 청량감을 높여 편안하게 마실 수 있는 맥주입니다.",
     "brewed": "korea",
-    "country": "korea"
+    "country": "korea",
+    "reviews": [
+      {
+        "reviewer": {
+          "name": "유미팬클럽",
+          "reviews": 123
+        },
+        "text": "파인트 글라스로 330ml 병 제공. slighlty cloudy 호박색의 구리색을 띄우고 중간 정도의 크림색을 띄며 중간 정도의 잔류 물과 약간의 비누 조각이 잔에 남아 있습니다. 코는 감미롭고 프루티하며, 꽃과 수지 홉이 강한 노트가 있습니다. 약간의 선풍적 인 맛. 일부 과일 노트와 함께 매우 거친 맥주. 카라멜과 토피. 중간에서 가벼운 괴로움. 수지. 중 ~ 저 쓴맛. 가벼운 몸. 중 탄산염. 거칠고 약간 달콤한 fatertaste. 중간 마시기. 나쁘지 않다.",
+        "like": 1,
+        "unlike": 0
+      },
+      {
+        "reviewer": {
+          "name": "유아인",
+          "reviews": 2
+        },
+        "text": "이딴것도 맥주라고 팔고있노 서초동 주민들은 부끄러운줄 알아라 ㅉㅉ",
+        "like": 1,
+        "unlike": 0
+      }
+    ],
+    "score": {
+      "look": 1,
+      "smell": 1,
+      "taste": 1,
+      "feel": 1,
+      "price": 1,
+      "overall": 1
+    }
   },
   {
     "id": 3,
-    "name": "Seoul Soul Ale",
+    "name": "seoul soul ale",
     "img": "../static/images/beer/b_14_simg.png",
     "color": "rgba(241,118,23,0.6)",
+    "description": "서울 소울 에일은 미국산 홉의 깔끔한 쓴 맛과 프리미엄 맥아의 은은한 단맛이 조화를 이루며 드라이 호핑 공법을 통해 입안과 코 끝에 남는 홉 향기가 특징인 맥주입니다.",
     "abv":  5.0,
     "ibu": 0,
     "srm": 0,
-    "type": "ALE",
+    "type": "ale",
+    "style": "wheat",
     "price": 0,
-    "description": "서울 소울 에일은 미국산 홉의 깔끔한 쓴 맛과 프리미엄 맥아의 은은한 단맛이 조화를 이루며 드라이 호핑 공법을 통해 입안과 코 끝에 남는 홉 향기가 특징인 맥주입니다.",
     "brewed": "korea",
-    "country": "korea"
+    "country": "korea",
+    "reviews": [
+      {
+        "reviewer": {
+          "name": "유미팬클럽",
+          "reviews": 123
+        },
+        "text": "파인트 글라스로 330ml 병 제공. slighlty cloudy 호박색의 구리색을 띄우고 중간 정도의 크림색을 띄며 중간 정도의 잔류 물과 약간의 비누 조각이 잔에 남아 있습니다. 코는 감미롭고 프루티하며, 꽃과 수지 홉이 강한 노트가 있습니다. 약간의 선풍적 인 맛. 일부 과일 노트와 함께 매우 거친 맥주. 카라멜과 토피. 중간에서 가벼운 괴로움. 수지. 중 ~ 저 쓴맛. 가벼운 몸. 중 탄산염. 거칠고 약간 달콤한 fatertaste. 중간 마시기. 나쁘지 않다.",
+        "like": 1,
+        "unlike": 0
+      },
+      {
+        "reviewer": {
+          "name": "유아인",
+          "reviews": 2
+        },
+        "text": "이딴것도 맥주라고 팔고있노 서초동 주민들은 부끄러운줄 알아라 ㅉㅉ",
+        "like": 1,
+        "unlike": 0
+      }
+    ],
+    "score": {
+      "look": 1,
+      "smell": 1,
+      "taste": 1,
+      "feel": 1,
+      "price": 1,
+      "overall": 1
+    }
   },
   {
     "id": 4,
-    "name": "GANGSEO MILD ALE",
+    "name": "gangseo mild ale",
     "img": "../static/images/beer/b_8_simg.png",
     "color": "rgba(50, 181, 229, 0.6)",
-    "abv":  4.6,
-    "ibu": 0,
-    "srm": 0,
-    "type": "ALE",
-    "price": 0,
     "description": "강서 마일드 에일는 IBU 25로 가볍게 즐길 수 있는 마일드에일로 몰트의 고소함과 오렌지, 망고등에서 느껴지는 시트러스향이 특징입니다.",
+    "abv":  4.6,
+    "ibu": 25,
+    "srm": 0,
+    "type": "ale",
+    "style": "wheat",
+    "price": 0,
     "brewed": "korea",
-    "country": "korea"
+    "country": "korea",
+    "reviews": [
+      {
+        "reviewer": {
+          "name": "유미팬클럽",
+          "reviews": 123
+        },
+        "text": "파인트 글라스로 330ml 병 제공. slighlty cloudy 호박색의 구리색을 띄우고 중간 정도의 크림색을 띄며 중간 정도의 잔류 물과 약간의 비누 조각이 잔에 남아 있습니다. 코는 감미롭고 프루티하며, 꽃과 수지 홉이 강한 노트가 있습니다. 약간의 선풍적 인 맛. 일부 과일 노트와 함께 매우 거친 맥주. 카라멜과 토피. 중간에서 가벼운 괴로움. 수지. 중 ~ 저 쓴맛. 가벼운 몸. 중 탄산염. 거칠고 약간 달콤한 fatertaste. 중간 마시기. 나쁘지 않다.",
+        "like": 1,
+        "unlike": 0
+      },
+      {
+        "reviewer": {
+          "name": "유아인",
+          "reviews": 2
+        },
+        "text": "이딴것도 맥주라고 팔고있노 서초동 주민들은 부끄러운줄 알아라 ㅉㅉ",
+        "like": 1,
+        "unlike": 0
+      }
+    ],
+    "score": {
+      "look": 1,
+      "smell": 1,
+      "taste": 1,
+      "feel": 1,
+      "price": 1,
+      "overall": 1
+    }
   },
   {
     "id": 5,
-    "name": "DALSEO ORANGE ALE",
+    "name": "dalseo orange ale",
     "img": "../static/images/beer/b_9_simg.png",
     "color": "rgba(245, 67, 5, 0.6)",
+    "description": "달서 오렌지 에일은 밀몰트와 보리몰트를 혼합, 발효시켜 부드러운 밀향에 오렌지향을 가미시킨 밀맥주로 부드러운 바닐라 풍미에 과하지 않은 상큼한 오렌지향이 특징입니다.",
     "abv":  4.2,
     "ibu": 0,
     "srm": 0,
-    "type": "ALE",
+    "type": "ale",
+    "style": "fruit",
     "price": 0,
-    "description": "달서 오렌지 에일은 밀몰트와 보리몰트를 혼합, 발효시켜 부드러운 밀향에 오렌지향을 가미시킨 밀맥주로 부드러운 바닐라 풍미에 과하지 않은 상큼한 오렌지향이 특징입니다.",
     "brewed": "korea",
-    "country": "korea"
+    "country": "korea",
+    "reviews": [
+      {
+        "reviewer": {
+          "name": "유미팬클럽",
+          "reviews": 123
+        },
+        "text": "파인트 글라스로 330ml 병 제공. slighlty cloudy 호박색의 구리색을 띄우고 중간 정도의 크림색을 띄며 중간 정도의 잔류 물과 약간의 비누 조각이 잔에 남아 있습니다. 코는 감미롭고 프루티하며, 꽃과 수지 홉이 강한 노트가 있습니다. 약간의 선풍적 인 맛. 일부 과일 노트와 함께 매우 거친 맥주. 카라멜과 토피. 중간에서 가벼운 괴로움. 수지. 중 ~ 저 쓴맛. 가벼운 몸. 중 탄산염. 거칠고 약간 달콤한 fatertaste. 중간 마시기. 나쁘지 않다.",
+        "like": 1,
+        "unlike": 0
+      },
+      {
+        "reviewer": {
+          "name": "유아인",
+          "reviews": 2
+        },
+        "text": "이딴것도 맥주라고 팔고있노 서초동 주민들은 부끄러운줄 알아라 ㅉㅉ",
+        "like": 1,
+        "unlike": 0
+      }
+    ],
+    "score": {
+      "look": 1,
+      "smell": 1,
+      "taste": 1,
+      "feel": 1,
+      "price": 1,
+      "overall": 1
+    }
   },
   {
     "id": 6,
-    "name": "JEOLLA ALE",
+    "name": "jeolla ale",
     "img": "../static/images/beer/b_10_simg.png",
     "color": "rgba(54, 206, 185, 0.6)",
+    "description": "전라에일은 에일맥주지만 라거처럼 깔끔한 맛으로 가볍게 즐길 수 있고, 플로럴과 시트러스향을 함께 느낄 수 있습니다.",
     "abv":  4.5,
     "ibu": 0,
     "srm": 0,
-    "type": "ALE",
+    "type": "ale",
+    "style": "fruit",
     "price": 0,
-    "description": "전라에일은 에일맥주지만 라거처럼 깔끔한 맛으로 가볍게 즐길 수 있고, 플로럴과 시트러스향을 함께 느낄 수 있습니다.",
     "brewed": "korea",
-    "country": "korea"
+    "country": "korea",
+    "reviews": [
+      {
+        "reviewer": {
+          "name": "유미팬클럽",
+          "reviews": 123
+        },
+        "text": "파인트 글라스로 330ml 병 제공. slighlty cloudy 호박색의 구리색을 띄우고 중간 정도의 크림색을 띄며 중간 정도의 잔류 물과 약간의 비누 조각이 잔에 남아 있습니다. 코는 감미롭고 프루티하며, 꽃과 수지 홉이 강한 노트가 있습니다. 약간의 선풍적 인 맛. 일부 과일 노트와 함께 매우 거친 맥주. 카라멜과 토피. 중간에서 가벼운 괴로움. 수지. 중 ~ 저 쓴맛. 가벼운 몸. 중 탄산염. 거칠고 약간 달콤한 fatertaste. 중간 마시기. 나쁘지 않다.",
+        "like": 1,
+        "unlike": 0
+      },
+      {
+        "reviewer": {
+          "name": "유아인",
+          "reviews": 2
+        },
+        "text": "이딴것도 맥주라고 팔고있노 서초동 주민들은 부끄러운줄 알아라 ㅉㅉ",
+        "like": 1,
+        "unlike": 0
+      }
+    ],
+    "score": {
+      "look": 1,
+      "smell": 1,
+      "taste": 1,
+      "feel": 1,
+      "price": 1,
+      "overall": 1
+    }
   }
 ]
