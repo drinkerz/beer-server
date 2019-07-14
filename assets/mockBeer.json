@@ -255,5 +255,91 @@
       "price": 1,
       "overall": 1
     }
+  },
+  {
+    "id": 7,
+    "name": "dummy Larger",
+    "img": "../static/images/beer/b_10_simg.png",
+    "color": "rgba(54, 206, 185, 0.6)",
+    "description": "더미 비어",
+    "abv":  4.5,
+    "ibu": 0,
+    "srm": 0,
+    "type": "lager",
+    "style": "fruit",
+    "price": 0,
+    "brewed": "korea",
+    "country": "korea",
+    "reviews": [
+      {
+        "reviewer": {
+          "name": "유미팬클럽",
+          "reviews": 123
+        },
+        "text": "파인트 글라스로 330ml 병 제공. slighlty cloudy 호박색의 구리색을 띄우고 중간 정도의 크림색을 띄며 중간 정도의 잔류 물과 약간의 비누 조각이 잔에 남아 있습니다. 코는 감미롭고 프루티하며, 꽃과 수지 홉이 강한 노트가 있습니다. 약간의 선풍적 인 맛. 일부 과일 노트와 함께 매우 거친 맥주. 카라멜과 토피. 중간에서 가벼운 괴로움. 수지. 중 ~ 저 쓴맛. 가벼운 몸. 중 탄산염. 거칠고 약간 달콤한 fatertaste. 중간 마시기. 나쁘지 않다.",
+        "like": 1,
+        "unlike": 0
+      },
+      {
+        "reviewer": {
+          "name": "유아인",
+          "reviews": 2
+        },
+        "text": "이딴것도 맥주라고 팔고있노 서초동 주민들은 부끄러운줄 알아라 ㅉㅉ",
+        "like": 1,
+        "unlike": 0
+      }
+    ],
+    "score": {
+      "look": 1,
+      "smell": 1,
+      "taste": 1,
+      "feel": 1,
+      "price": 1,
+      "overall": 1
+    }
+  },
+  {
+    "id": 8,
+    "name": "dummy Lambic",
+    "img": "../static/images/beer/b_10_simg.png",
+    "color": "rgba(54, 206, 185, 0.6)",
+    "description": "더미 람빅",
+    "abv":  4.5,
+    "ibu": 0,
+    "srm": 0,
+    "type": "lambic",
+    "style": "fruit",
+    "price": 0,
+    "brewed": "korea",
+    "country": "korea",
+    "reviews": [
+      {
+        "reviewer": {
+          "name": "유미팬클럽",
+          "reviews": 123
+        },
+        "text": "파인트 글라스로 330ml 병 제공. slighlty cloudy 호박색의 구리색을 띄우고 중간 정도의 크림색을 띄며 중간 정도의 잔류 물과 약간의 비누 조각이 잔에 남아 있습니다. 코는 감미롭고 프루티하며, 꽃과 수지 홉이 강한 노트가 있습니다. 약간의 선풍적 인 맛. 일부 과일 노트와 함께 매우 거친 맥주. 카라멜과 토피. 중간에서 가벼운 괴로움. 수지. 중 ~ 저 쓴맛. 가벼운 몸. 중 탄산염. 거칠고 약간 달콤한 fatertaste. 중간 마시기. 나쁘지 않다.",
+        "like": 1,
+        "unlike": 0
+      },
+      {
+        "reviewer": {
+          "name": "유아인",
+          "reviews": 2
+        },
+        "text": "이딴것도 맥주라고 팔고있노 서초동 주민들은 부끄러운줄 알아라 ㅉㅉ",
+        "like": 1,
+        "unlike": 0
+      }
+    ],
+    "score": {
+      "look": 1,
+      "smell": 1,
+      "taste": 1,
+      "feel": 1,
+      "price": 1,
+      "overall": 1
+    }
   }
 ]
